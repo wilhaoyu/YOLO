@@ -15,4 +15,4 @@ For the YOLOv2,v3 and v4, you could use them to build your object detector, and 
 
 For me, I use the Google Colab to detect the objects. Here is the Colab Notebook for showing how to train custom object detector and detect objects in images and videos:
 
-[YOLOv4]()
+[YOLOv4](https://colab.research.google.com/drive/1PWqXKO-h44l9tsWjulr1tRriAPYJAuu0?usp=sharing)
